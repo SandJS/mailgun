@@ -1,6 +1,6 @@
 {
   "name": "sand-mailgun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mailgun Sand Grain",
   "main": "lib/Grain.js",
   "scripts": {
