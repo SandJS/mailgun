@@ -1,0 +1,28 @@
+{
+  "name": "sand-mailgun",
+  "version": "1.0.0",
+  "description": "Mailgun Sand Grain",
+  "main": "lib/Grain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandJS/mailgun.git"
+  },
+  "keywords": [
+    "Sand",
+    "Mailgun"
+  ],
+  "author": "Kevin Smithson <ksmithson@sazze.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandJS/mailgun/issues"
+  },
+  "homepage": "https://github.com/SandJS/mailgun#readme",
+  "dependencies": {
+    "lodash": "^4.16.2",
+    "mailgun-js": "^0.7.12",
+    "sand-grain": "^1.1.1"
+  }
+}
